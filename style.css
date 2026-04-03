@@ -158,3 +158,27 @@ footer {
   }
 
 }
+.instagram-link {
+  text-align: center;
+  margin: 60px 0;
+}
+
+.instagram-link p {
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.instagram-link a {
+  display: inline-block;
+  background: linear-gradient(45deg, #833ab4, #fd1d1d, #fcb045);
+  color: white;
+  text-decoration: none;
+  padding: 14px 28px;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.instagram-link a:hover {
+  transform: scale(1.05);
+}
